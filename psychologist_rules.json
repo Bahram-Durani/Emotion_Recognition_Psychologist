@@ -1,0 +1,255 @@
+{
+  "_meta": {
+    "version": 1,
+    "class_names": ["ANG", "DIS", "FEA", "HAP", "NEU", "SAD"],
+    "aliases": {
+      "ANGRY": "ANG",
+      "DISGUST": "DIS",
+      "FEAR": "FEA",
+      "HAPPY": "HAP",
+      "NEUTRAL": "NEU",
+      "SAD": "SAD",
+      "OTH": "NEU"
+    }
+  },
+  "ANG": {
+    "display_name": "Angry",
+    "dr_note": "Patient needs regular therapy to manage anger. If anger causes conflict, a weekly visit is recommended until stable.",
+    "what_you_can_do": [
+      "When anger rises, try taking a few slow, deep breaths—it can help your body calm down.",
+      "It’s okay to step away for a few minutes to give yourself space to breathe and reset.",
+      "Writing down what upset you might help you understand your feelings better.",
+      "Calming music or a simple breathing exercise might help soothe your mind and body."
+    ],
+    "what_your_family_can_do": [
+      "Giving you a little space when emotions are high can feel really supportive.",
+      "Speaking gently and softly can help everyone feel safer.",
+      "Just listening without trying to fix or judge can mean a lot.",
+      "Avoiding blame or raised voices helps keep things from escalating."
+    ],
+    "what_to_eat": [
+      "Nourishing foods like leafy greens, nuts, and fresh fruit can support a calmer mood.",
+      "You might feel better avoiding sugary snacks, energy drinks, or too much caffeine.",
+      "Staying hydrated with water throughout the day can help your body feel more balanced.",
+      "Foods rich in Omega-3s like salmon, walnuts, or chia seeds may help support emotional well being."
+    ],
+    "how_to_move_your_body": [
+      "A short walk or some light movement can help release built up tension.",
+      "Punching a pillow or doing a few jumping jacks might help you express energy safely.",
+      "Gentle stretching or a few minutes of yoga can bring your body back to calm.",
+      "Even 10–15 minutes of movement a day can make a difference in how you feel."
+    ],
+    "how_to_sleep_better": [
+      "Going to bed around the same time each night helps your body settle into a rhythm.",
+      "Putting screens away an hour before bed can help your mind wind down.",
+      "Soft music, a breathing exercise, or a warm drink might help you relax into sleep.",
+      "Aim for 7–9 hours when you can rest is part of healing."
+    ],
+    "extra_support_tips": [
+      "Feeling angry is completely human it’s what you do with it that matters.",
+      "An anger journal can help you notice patterns and care for yourself with more awareness.",
+      "If anger feels overwhelming, talking with a therapist can bring real relief and tools.",
+      "Practicing grounding or mindfulness even for a minute can help you feel more centered."
+    ]
+  },
+  "DIS": {
+    "display_name": "Disgust",
+    "dr_note": "Often linked to crossed limits/values. Watch for avoidance or withdrawal. Weekly or 2-week visit can help the patient feel safe.",
+    "what_you_can_do": [
+      "Notice where you feel disgust in your body, and try breathing slowly through it.",
+      "Simply naming it “I’m feeling disgusted” can help you feel less swept away by it.",
+      "Taking a short break from what triggered you can give you space to return with more clarity.",
+      "Ask yourself: What value feels hurt? What small boundary might help me feel safer?"
+    ],
+    "what_your_family_can_do": [
+      "Using kind, respectful words instead of shaming—helps everyone feel seen.",
+      "Gently asking, “What do you need right now?” can be deeply supportive.",
+      "Offering practical help like opening a window or tidying up—can ease physical discomfort.",
+      "Staying calm and steady, even when things feel intense, creates safety."
+    ],
+    "what_to_eat": [
+      "If your stomach feels unsettled, simple foods like toast, bananas, or rice might feel easier.",
+      "Sipping water or ginger tea can soothe your system gently.",
+      "For now, you might feel better avoiding strong smells or heavy, greasy foods.",
+      "As you feel ready, returning to balanced, nourishing meals can help you feel grounded again."
+    ],
+    "how_to_move_your_body": [
+      "A few minutes outside or near an open window can help clear your mind.",
+      "Gentle neck or shoulder rolls might release tension held in your body.",
+      "Tidying a small space if it helps can give a sense of control and calm.",
+      "Long, slow exhales can signal to your nervous system that you’re safe."
+    ],
+    "how_to_sleep_better": [
+      "Keeping your room cool, clean, and well-ventilated can support restful sleep.",
+      "A simple wind-down like a warm shower or quiet reading can prepare your mind for rest.",
+      "Avoiding big meals close to bedtime might help your body relax more easily.",
+      "If your thoughts won’t settle, writing them down and closing the notebook can feel like a release."
+    ],
+    "extra_support_tips": [
+      "Disgust often shows us what matters deeply to us—it’s a signal, not a flaw.",
+      "If this feeling shows up often or feels overwhelming, exploring it with a therapist can bring clarity.",
+      "The 5-senses grounding technique (notice 5 things you see, 4 you feel, etc.) can bring you back to the present.",
+      "Setting even one small, kind boundary today is an act of self care."
+    ]
+  },
+  "FEA": {
+    "display_name": "Fear",
+    "dr_note": "Needs steady therapy. A weekly visit is advised, especially if fear affects daily activities.",
+    "what_you_can_do": [
+      "When fear shows up, slow, deep breaths can help your body feel safer.",
+      "Ground yourself by noticing 5 things you see, 4 you can touch, 3 you hear, 2 you smell, 1 you taste.",
+      "Writing down your fear and gently asking, “Is this thought helpful or true?” can bring perspective.",
+      "Facing fear doesn’t mean doing it all at once tiny steps, taken kindly, build courage over time."
+    ],
+    "what_your_family_can_do": [
+      "Saying, “I’m here with you,” feels more supportive than “Don’t be scared.”",
+      "Helping create a calm, safe space physically and emotionally matters deeply.",
+      "Letting you share your fear without rushing to fix it shows real care.",
+      "Gentle encouragement without pressure helps you move at your own pace."
+    ],
+    "what_to_eat": [
+      "Calming foods like bananas, oatmeal, or chamomile tea might help soothe your nerves.",
+      "Too much caffeine can amplify anxious feelings you might notice a difference if you reduce it.",
+      "Light, regular meals can help avoid that “nervous stomach” feeling.",
+      "Staying hydrated supports your whole system in staying steady."
+    ],
+    "how_to_move_your_body": [
+      "Gentle movement like walking, stretching, or slow yoga can help regulate your nervous system.",
+      "Shaking your limbs gently (like a dog after a bath!) can release stored tension.",
+      "Mindful movement like tai chi or qigong invites calm into your body.",
+      "Pairing breath with movement—inhale as you reach, exhale as you fold can feel deeply grounding."
+    ],
+    "how_to_sleep_better": [
+      "Making your bedroom feel cozy, safe, and quiet can invite rest.",
+      "Avoiding scary movies, news, or stressful conversations before bed protects your peace.",
+      "Calming sounds or a short breathing exercise might help you drift off more easily.",
+      "A consistent bedtime even on weekends helps your body trust that rest is coming."
+    ],
+    "extra_support_tips": [
+      "Fear is a natural part of being human you don’t have to face it alone.",
+      "Therapy offers safe, proven ways to understand and work with fear and anxiety.",
+      "Every small step you take deserves kindness celebrate your courage, not just the outcome.",
+      "You are stronger than your fear, even on days when it doesn’t feel that way."
+    ]
+  },
+  "HAP": {
+    "display_name": "Happy",
+    "dr_note": "Stable, positive mood. Keep healthy habits. Move to a 2-week or 4-week visit to maintain progress.",
+    "what_you_can_do": [
+      "Savor this moment let yourself fully enjoy what’s bringing you joy right now.",
+      "Sharing your good feelings with someone you care about can deepen the warmth.",
+      "This is a great time to gently nurture healthy routines that support your well-being.",
+      "Jotting down what’s going well can help you remember these bright moments later."
+    ],
+    "what_your_family_can_do": [
+      "Celebrating even small joys with you like a shared smile or laugh builds connection.",
+      "Joining you in something fun or relaxing shows you’re valued just as you are.",
+      "Enjoying simple, unhurried time together can strengthen your bond.",
+      "Supporting your healthy habits without pressure helps joy last longer."
+    ],
+    "what_to_eat": [
+      "Balanced meals continue to fuel your energy and mood, even on good days.",
+      "Enjoying a treat in moderation is part of a joyful, balanced life you deserve it!",
+      "Bright fruits like berries or oranges add natural energy and color to your day.",
+      "Staying hydrated helps you feel your best, inside and out."
+    ],
+    "how_to_move_your_body": [
+      "Dancing to a favorite song, playing outside, or tossing a ball can keep joy flowing.",
+      "Group activities like a walk with a friend or a dance class multiply the fun.",
+      "Moving your body, even lightly, helps sustain that feel good energy.",
+      "When movement feels like play, it’s easier to keep coming back to it."
+    ],
+    "how_to_sleep_better": [
+      "Keeping your sleep schedule steady helps you wake up refreshed and ready for more good days.",
+      "A cozy wind-down like reading or soft music lets happiness settle into rest.",
+      "Limiting screens before bed helps your mind transition gently into sleep.",
+      "Good sleep isn’t just rest it’s how your body stores and renews joy."
+    ],
+    "extra_support_tips": [
+      "Sharing your happiness can lift others too your light matters.",
+      "Use these calm, joyful moments to build inner strength for tougher days.",
+      "Practicing gratitude like listing 3 good things helps joy sink in deeper.",
+      "Even on happy days, checking in with yourself is a loving habit."
+    ]
+  },
+  "NEU": {
+    "display_name": "Neutral",
+    "dr_note": "May mean stable or holding back. If doing well, a 2-week visit is fine; if mood stays flat, use weekly visits.",
+    "what_you_can_do": [
+      "Take a quiet moment to gently ask yourself: How am I really feeling beneath the calm?",
+      "Doing one small thing that feels meaningful like watering a plant or texting a friend can add warmth.",
+      "This peaceful space is a chance to reflect, dream, or plan something kind for yourself.",
+      "Sitting quietly with a cup of tea or just watching the sky can be enough."
+    ],
+    "what_your_family_can_do": [
+      "Spending relaxed, low-pressure time together like sharing a meal builds quiet connection.",
+      "Asking open, gentle questions like, “How’s your heart today?” invites sharing without pressure.",
+      "Inviting you to join a calm activity like a walk or puzzle offers companionship without demand.",
+      "Keeping things light, warm, and supportive honors your current state."
+    ],
+    "what_to_eat": [
+      "A warm, simple meal like soup or stew can feel comforting and nourishing.",
+      "Brain-supportive foods like eggs, greens, or fish help maintain steady energy.",
+      "Regular, balanced meals keep your foundation strong, even when emotions are quiet.",
+      "Sipping water throughout the day supports your overall well being."
+    ],
+    "how_to_move_your_body": [
+      "A short walk—even without a goal can gently shift your energy.",
+      "A few minutes of stretching or rolling your shoulders might feel refreshing.",
+      "Tidying a drawer or watering plants turns small movement into care.",
+      "Letting your body move naturally without pressure can awaken subtle joy."
+    ],
+    "how_to_sleep_better": [
+      "A consistent, calming bedtime routine signals safety to your nervous system.",
+      "Use this quiet time to truly rest and reset not just for sleep, but for your whole self.",
+      "If your mind is busy, soft music or a sleep story might help it settle.",
+      "Avoiding caffeine in the afternoon helps your body ease into rest more naturally."
+    ],
+    "extra_support_tips": [
+      "Neutral isn’t empty it’s a valid, peaceful place to be. Not every day needs fireworks.",
+      "This calm is a gift use it to recharge, reflect, or simply be.",
+      "Trying a quiet hobby like coloring, knitting, or listening to music can feel soothing.",
+      "Balance includes stillness. Honor this peace as part of your emotional rhythm."
+    ]
+  },
+  "SAD": {
+    "display_name": "Sad",
+    "dr_note": "If sadness lasts or the patient withdraws, regular support is needed. A weekly visit is recommended to improve mood and prevent decline.",
+    "what_you_can_do": [
+      "On hard days, just getting out of bed is a victory. Be gentle with yourself.",
+      "Sharing how you feel with someone safe can lighten the weight, even a little.",
+      "Writing in a journal without editing or judging lets your heart speak.",
+      "Even 10 minutes of sunlight or fresh air can offer a small lift."
+    ],
+    "what_your_family_can_do": [
+      "A quiet “How are you, really?” without pushing shows you care.",
+      "Sometimes just sitting together in silence, without trying to fix anything, is enough.",
+      "Inviting you to join a small, low effort activity like making tea offers connection without pressure.",
+      "Reminding them, “You’re not alone,” can be a lifeline."
+    ],
+    "what_to_eat": [
+      "Warm, comforting meals with protein and veggies can gently support your energy.",
+      "Try to eat regularly even small amounts since skipping meals can deepen low mood.",
+      "Bananas, nuts, and whole grains offer steady fuel for your brain and body.",
+      "Drinking enough water is a simple but powerful way to care for yourself."
+    ],
+    "how_to_move_your_body": [
+      "A slow walk around the block or some gentle stretches can help shift heaviness.",
+      "Dancing alone to one favorite song can reconnect you with your body and joy.",
+      "Light movement like yoga or chair exercises meets you where you are.",
+      "Five minutes of movement is still movement and it counts."
+    ],
+    "how_to_sleep_better": [
+      "A calming bedtime routine like dim lights and soft music can ease you into rest.",
+      "Long daytime naps can make nighttime sleep harder—short rests are gentler.",
+      "A weighted blanket might offer a sense of comfort and safety as you sleep.",
+      "Gentle sleep sounds or a guided relaxation can help quiet a busy, sad mind."
+    ],
+    "extra_support_tips": [
+      "Sadness can feel endless, but it won’t last forever—even when it seems like it will.",
+      "Asking for help isn’t weakness it’s one of the bravest things you can do.",
+      "Therapy or a support group offers understanding and tools when sadness feels heavy.",
+      "Celebrate tiny wins: getting dressed, drinking water, texting a friend they all matter."
+    ]
+  }
+}
